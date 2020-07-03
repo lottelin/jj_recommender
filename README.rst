@@ -14,7 +14,7 @@ Jupyter Jasmine Recommender Package
         :alt: Documentation Status
 
 
-
+.. image:: https://media.giphy.com/media/3oEjHKjVoNVsCeMoDe/giphy.gif
 
 Demo for pip-installing a python package.
 
